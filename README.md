@@ -44,7 +44,7 @@ source: node1-app.yaml
 ## 2. GCP Setup
 
  - Create Google Cloud Platform account using Gmail address.
- - Download [Google Cloud SDK](https://cloud.google.com/sdk/docs). Then within the Google Cloud SDK Shell, update with the following command: `$ gcloud components update`
+ - Download [Google Cloud SDK](https://cloud.google.com/sdk/docs). Then within the Google Cloud SDK Shell, update with the following command: `gcloud components update`
 ## 3. Create Project
 Create new project:
  `
